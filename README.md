@@ -1,6 +1,6 @@
 # Advance Study Portal
 
-![BSCS 3B Logo](bscs3b.png)
+![BSCS 3B Logo](bscs3b_new.png)
 
 ## Course Subjects and Files
 
